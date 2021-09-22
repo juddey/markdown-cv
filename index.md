@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Justin Lane - Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Justin Lane
+## React Native Developer with 20 years industry experience
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,81 +11,12 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+React native developer with 20 years industry experience
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Currently seeking work whilst developing whip hq.com7 years ago I made the jump from proprietary software to open source, from Windows to Linux and from enterprise to starting my own business, and I haven't looked back since.ProjectsWith hq.com connecting churches and communitiesTarget market: churches charities another nonprofits4 connection community building fundraising and volunteer administrationText stackReact native Alexa phoenix web framework and reactGet them CI to testing and deployment, stripe integration for donationsReact native dot 64 app upgraded from 574Navigation react-native-navigation by wixUI react-native-ui-lib also by wixState mobx-state-treeTesting unit jest and react-native-testing-library, and detox for integration testsData craft cabal via apollo-clientTiaki early childhood education care managementTarget market early childhood education centres4 day-to-day administration of child enrolments application for entry and regulatory requirements handles new applications for childcare places child enrolments regulatory requirements and feedbackText ZachReact native versions 50 257Navigation by react-native-navigation version 1, UI react-native-elementsState redux and redux SagaTesting jest snapshot testing and detoxBackend ruby on rails and elixir phoenixCandid candidate management and tracking softwareMarket: employers developers and finally recruiters4 candidate application filtering and interview to offer processesText ZachRuby on rails 4 and 5 for backend APiAngular.js full front end SPaEarlier20/14 a year off with a new baby2013 contract business analyst university of Auckland2011 project lead peoplesoft campus solutions upgrade university of Auckland2010 and priorFunctional slash technical pet product consultant peoplesoft campus solutions a human people's of human resourcesEducationBachelor of management studies first class honours university of Waikato 1999
 
 
